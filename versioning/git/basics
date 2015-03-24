@@ -1,0 +1,52 @@
+Set preferences
+==
+# git config —global user.name Phincy
+# git config —global user.email phincy.l@flipkart.com
+# git config —global core.editor vi
+# git config —list
+
+# git help config
+
+Get preferences
+==
+
+# git config user.name
+# git config core.editor
+
+
+These settings are saved in the ~/.gitconfig file
+
+
+Initialise new git repo
+==
+# mkdir /path/to/repo 
+# cd  /path/to/repo
+# git init
+
+clone a repo
+===
+git clone git@githum.com/path/tp/git
+
+git add *
+
+git commit -a -m “adding"
+
+git push
+
+git status
+
+git rm file
+
+git rm —cached
+git log
+
+git log -p
+
+
+
+
+=============
+
+
+
+
