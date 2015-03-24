@@ -1,0 +1,45 @@
+Create new branch
+# git branch newbranch
+
+Switch to new branch
+
+# git checkout newbranch
+
+Do the above together
+
+# git checkout -b newbranch
+
+Show status on different branches.
+
+# git log --oneline --decorate --graph --all
+
+Show all branches
+
+# git branch
+
+Merge changes in newbranch to master
+
+# git checkout master
+
+# git merge newbranch
+
+Delete a branch
+
+# git branch -d newbrach
+
+Force delete a branch
+
+# git brancg -D newbranch
+
+Show all merged branches
+
+# git branch —merged
+
+Show all unmerged branches
+
+# git bracnh —no-merged
+
+
+
+
+

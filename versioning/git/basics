@@ -25,22 +25,22 @@ Initialise new git repo
 
 clone a repo
 ===
-git clone git@githum.com/path/tp/git
+# git clone git@githum.com/path/tp/git
 
-git add *
+# git add *
 
-git commit -a -m “adding"
+# git commit -a -m “adding"
 
-git push
+# git push
 
-git status
+# git status
 
-git rm file
+# git rm file
 
-git rm —cached
-git log
+# git rm —cached
+# git log
 
-git log -p
+# git log -p
 
 
 
